@@ -65,7 +65,7 @@ namespace Nhom2_pro
 
         private void button2_Click(object sender, EventArgs e)
         {
-            var qlmh = new QLMH();
+            var qlmh = new QLMHH();
             OpenFormInPanel(qlmh);
             label2.Text = "Quản lý môn học";
         }
