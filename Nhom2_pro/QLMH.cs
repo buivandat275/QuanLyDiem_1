@@ -21,5 +21,15 @@ namespace Nhom2_pro
         {
 
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+            //dat10h38
+        }
     }
 }
