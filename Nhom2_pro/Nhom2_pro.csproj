@@ -134,6 +134,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="QLMH.resx">
+      <DependentUpon>QLMH.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="QLSV.resx">
       <DependentUpon>QLSV.cs</DependentUpon>
     </EmbeddedResource>

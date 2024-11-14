@@ -22,9 +22,6 @@ namespace Nhom2_pro
 
         }
 
-        private void panel1_Paint(object sender, PaintEventArgs e)
-        {
 
-        }
     }
 }
