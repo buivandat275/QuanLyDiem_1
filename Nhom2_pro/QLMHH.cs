@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Nhom2_pro
 {
-    public partial class QLMH : Form
+    public partial class QLMHH : Form
     {
-        public QLMH()
+        public QLMHH()
         {
             InitializeComponent();
         }
@@ -21,7 +21,5 @@ namespace Nhom2_pro
         {
 
         }
-
-
     }
 }

@@ -89,11 +89,11 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>QLDSVDataSet.xsd</DependentUpon>
     </Compile>
-    <Compile Include="QLMH.cs">
+    <Compile Include="QLMHH.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="QLMH.Designer.cs">
-      <DependentUpon>QLMH.cs</DependentUpon>
+    <Compile Include="QLMHH.Designer.cs">
+      <DependentUpon>QLMHH.cs</DependentUpon>
     </Compile>
     <Compile Include="QLSV.cs">
       <SubType>Form</SubType>
@@ -134,8 +134,8 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="QLMH.resx">
-      <DependentUpon>QLMH.cs</DependentUpon>
+    <EmbeddedResource Include="QLMHH.resx">
+      <DependentUpon>QLMHH.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="QLSV.resx">
       <DependentUpon>QLSV.cs</DependentUpon>
